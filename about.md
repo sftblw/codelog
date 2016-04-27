@@ -1,15 +1,11 @@
 ---
 layout: page
-title: About
+title: 정보
 permalink: /about/
 ---
 
-Some information about you!
+Ch.가 뭐 배운 날에 기록하는 곳. 자세한 내용은 [저장소](https://github.com/sftblw/tilog-ch)를 확인 바람.
 
-### More Information
+### 연락처
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[이 페이지를 확인할 것](http://sftblw.github.io/)
